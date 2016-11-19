@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cjb-jstelnet@>=0.0.1",
+        "scope": null,
+        "escapedName": "cjb-jstelnet",
+        "name": "cjb-jstelnet",
+        "rawSpec": ">=0.0.1",
+        "spec": ">=0.0.1",
+        "type": "range"
+      },
+      "/usr/local/lib/node_modules/ddv"
+    ]
+  ],
+  "_cnpm_publish_time": 1475600201421,
+  "_from": "cjb-jstelnet@>=0.0.1",
+  "_id": "cjb-jstelnet@0.0.1",
+  "_inCache": true,
+  "_location": "/ddv/cjb-jstelnet",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cjb-jstelnet-0.0.1.tgz_1475600199648_0.5950050642713904"
+  },
+  "_npmUser": {
+    "name": "yuchonghua",
+    "email": "yuchonghua@163.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cjb-jstelnet@>=0.0.1",
+    "scope": null,
+    "escapedName": "cjb-jstelnet",
+    "name": "cjb-jstelnet",
+    "rawSpec": ">=0.0.1",
+    "spec": ">=0.0.1",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/ddv"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/cjb-jstelnet/download/cjb-jstelnet-0.0.1.tgz",
+  "_shasum": "852c222754d26f0ce6775cf31da39dd12ca27ccc",
+  "_shrinkwrap": null,
+  "_spec": "cjb-jstelnet@>=0.0.1",
+  "_where": "/usr/local/lib/node_modules/ddv",
+  "author": {
+    "name": "yuchonghua"
+  },
+  "bugs": {
+    "url": "https://github.com/chengjiabao/cjb-jstelnet/issues"
+  },
+  "dependencies": {},
+  "description": "Telnet Protocol Listener",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "852c222754d26f0ce6775cf31da39dd12ca27ccc",
+    "size": 7187,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cjb-jstelnet/download/cjb-jstelnet-0.0.1.tgz"
+  },
+  "engines": {
+    "node": "~0.6.5"
+  },
+  "homepage": "https://github.com/chengjiabao/cjb-jstelnet#readme",
+  "keywords": [
+    "cjb-jstelnet",
+    "telnet",
+    "server"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "yuchonghua",
+      "email": "yuchonghua@163.com"
+    }
+  ],
+  "name": "cjb-jstelnet",
+  "optionalDependencies": {},
+  "publish_time": 1475600201421,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chengjiabao/cjb-jstelnet.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "required": {
+        "node": "~0.6.5"
+      },
+      "pkgid": "cjb-jstelnet@0.0.1"
+    }
+  ]
+}
