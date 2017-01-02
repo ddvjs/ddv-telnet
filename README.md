@@ -1,4 +1,4 @@
-# Cjb-jstelnet #
+# ddv-telnet #
 
 A Telnet protocol listener for Node.js, written by Chengjiabao and
 licensed under a 3-clause BSD license; see LICENSE.md for the full
@@ -14,12 +14,12 @@ text.
 
 Install it via NPM:
 
-    npm install cjb-jstelnet
+    npm install ddv-telnet
 
 Now use it:
 ```JavaScript
 
-var telnet = require('cjb-jstelnet');
+var telnet = require('ddv-telnet');
 var s = telnet.createServer(function (c) {
 	console.log("connected; term=%s %dx%d",
 		c.term, c.windowSize[0], c.windowSize[1]);
@@ -212,4 +212,3 @@ command is either a telnet option id (8-bit integer) or an array of
 *If you find that you need this method, chances are that we need to
 extend telnet.js; I'd love to hear about that, or better yet, see a pull
 request!*
-
